@@ -17,7 +17,7 @@
     "react": "^18",
     "react-dom": "^18",
     "tailwindcss": "^4.0.14",
-    "ai": "^0.1.0",
+    "ai": "latest",
     "zod": "^3.22.2"
   },
   "devDependencies": {
